@@ -102,6 +102,9 @@ Custom e-commerce platform with:
   <a href="https://www.linkedin.com/in/ayesh-chamodye/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  <a href="https://wa.me/+94766568369">
+    <img src="https://skillicons.dev/icons?i=whatsapp" />
+  </a>
 </p>
 
 ---
