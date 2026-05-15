@@ -72,7 +72,7 @@ Custom e-commerce platform with:
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayesh-chamodye&theme=tokyo-night" alt="Typing SVG" />  
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ayesh-chamodye"/>  
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?theme=tokyo-night&username=ayesh-chamodye"/>  
 </p>
 
 ---
