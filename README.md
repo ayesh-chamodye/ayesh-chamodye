@@ -72,7 +72,7 @@ Custom e-commerce platform with:
 ## 📈 GitHub Stats
 
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayesh-chamodye&theme=radical)
+  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayesh-chamodye&theme=react-dark)
 
 
 
