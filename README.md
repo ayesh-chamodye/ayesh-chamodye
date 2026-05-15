@@ -71,7 +71,7 @@ Custom e-commerce platform with:
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ayesh-chamodye&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayesh-dev&theme=tokyonight)](https://git.io/streak-stats)
 
 ## 💻 Top Languages
 
