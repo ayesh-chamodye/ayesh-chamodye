@@ -71,8 +71,8 @@ Custom e-commerce platform with:
 ## 📊 GitHub Stats
 
   <p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005&show_icons=true&theme=tokyonight&card_width=300" />     
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?theme=tokyonight&username=ayesh-chamodye&card_width=300"/>  
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005&show_icons=true&theme=tokyonight&card_width=40%" />     
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?theme=tokyonight&username=ayesh-chamodye&card_width=40%"/>  
   </p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayesh-chamodye&theme=tokyo-night"/>  
 ---
