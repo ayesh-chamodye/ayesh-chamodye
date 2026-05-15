@@ -69,9 +69,9 @@ Custom e-commerce platform with:
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayesh-chamodye&theme=tokyo-night)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayesh-chamodye&theme=tokyo-night" alt="Typing SVG" />
 </p>
 
 ---
