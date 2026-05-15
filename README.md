@@ -104,9 +104,8 @@ Custom e-commerce platform with:
   </a>
   <a href="https://wa.me/+94766568369">    
     <img src="https://cdn-icons-png.flaticon.com/128/15713/15713434.png" width="50px"/>
-  </a>
+  </a>  
 </p>
-
 ---
 
 <p align="center">
