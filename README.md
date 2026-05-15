@@ -70,11 +70,31 @@ Custom e-commerce platform with:
 
 ## 📊 GitHub Stats
 
-  <p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=ayesh-chamodye&show_icons=true&theme=tokyonight" />     
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?theme=tokyonight&username=ayesh-chamodye"/>  
-  </p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayesh-chamodye&theme=tokyo-night"/>  
+  <table align="center" width="100%">
+  <tr>
+    <td width="50%">
+      <img 
+        src="https://github-readme-stats-fast.vercel.app/api?username=ayesh-chamodye&show_icons=true&theme=tokyonight&hide_border=true" 
+        width="100%" 
+      />
+    </td>
+    <td width="50%">
+      <img 
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ayesh-chamodye&layout=compact&theme=tokyonight&hide_border=true" 
+        width="100%" 
+      />
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">
+      <img 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=ayesh-chamodye&theme=tokyo-night&hide_border=true" 
+        width="100%" 
+      />
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🧩 Fun Facts
