@@ -2,7 +2,7 @@
 <h3 align="center">Undergraduate • Software Engineer • AI Enthusiast • Anime Fan 🇱🇰</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Java+%7C+C%23+%7C+Flutter;AI+and+Software+Engineering+Enthusiast;Building+Apps+That+Actually+Matter;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Java+%7C+C%23;AI+and+Software+Engineering+Enthusiast;Building+Apps+That+Actually+Matter;Always+Learning+New+Tech" alt="Typing SVG" />
 </p>
 
 ---
