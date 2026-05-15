@@ -99,7 +99,7 @@ Custom e-commerce platform with:
   <a href="https://github.com/ayesh-chamodye">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="www.linkedin.com/in/ayesh-chamodye/">
+  <a href="https://www.linkedin.com/in/ayesh-chamodye/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
