@@ -71,12 +71,12 @@ Custom e-commerce platform with:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayesh-chamodye&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayesh-chamodye&theme=tokyonight" height="170"/>
+  ![ayesh-chamodye's GitHub Stats](https://readme-stats-github.pages.dev/api?username=ayesh-chamodye&theme=shadow)height="170"/>
+  ![readme-stats-github Stats](https://readme-stats-github.pages.dev/api/repo?username=ayesh-chamodye&repo=readme-stats-github&theme=shadow)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayesh-chamodye&layout=compact&theme=tokyonight"/>
+  ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=ayesh-chamodye&theme=shadow)
 </p>
 
 ---
