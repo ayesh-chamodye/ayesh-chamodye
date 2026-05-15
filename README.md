@@ -71,7 +71,7 @@ Custom e-commerce platform with:
 ## 📊 GitHub Stats
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayesh-chamodye&theme=tokyo-night" alt="Typing SVG" />  
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005&show_icons=true&theme=radical" /> 
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005&show_icons=true&theme=tokyonight" /> 
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?theme=tokyonight&username=ayesh-chamodye"/>  
 
 ---
