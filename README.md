@@ -96,10 +96,10 @@ Custom e-commerce platform with:
 ## 🌍 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/ayesh-chamodye" target="_blank">
+  <a href="https://github.com/ayesh-chamodye">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="www.linkedin.com/in/ayesh-chamodye/" target="_blank">
+  <a href="www.linkedin.com/in/ayesh-chamodye/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
