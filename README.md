@@ -1,3 +1,4 @@
+<img src="AYESH+DEV.png" alt="backdrop" />
 <h1 align="center">Hi 👋, I'm Ayesh Chamodye</h1>
 <h3 align="center">Undergraduate • Software Engineer • AI Enthusiast • Anime Fan 🇱🇰</h3>
 
