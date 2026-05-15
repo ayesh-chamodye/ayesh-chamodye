@@ -71,12 +71,12 @@ Custom e-commerce platform with:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayesh-chamodye&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayesh-chamodye&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayesh-chamodye&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -101,10 +101,10 @@ Custom e-commerce platform with:
 ## 🌍 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/ayesh-chamodye" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+  <a href="www.linkedin.com/in/ayesh-chamodye/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
@@ -112,7 +112,7 @@ Custom e-commerce platform with:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ayesh-chamodye&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <h3 align="center">"Code. Learn. Build. Repeat." 🚀</h3>
