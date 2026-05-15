@@ -72,7 +72,7 @@ Custom e-commerce platform with:
 
 
   ![ayesh-chamodye's GitHub Stats](https://readme-stats-github.pages.dev/api?username=ayesh-chamodye&theme=shadow)height="170"/>
-  ![readme-stats-github Stats](https://readme-stats-github.pages.dev/api/repo?username=ayesh-chamodye&repo=readme-stats-github&theme=shadow)
+
 
 
 
