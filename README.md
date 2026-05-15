@@ -103,7 +103,7 @@ Custom e-commerce platform with:
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://wa.me/+94766568369">    
-    <img src="https://img.icons8.com/?id=7OeRNqg6S7Vf&format=png&color=000000" />
+    <img src="https://cdn-icons-png.flaticon.com/128/15713/15713434.png" />
   </a>
 </p>
 
