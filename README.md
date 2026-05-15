@@ -71,8 +71,8 @@ Custom e-commerce platform with:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayesh-chamodye&theme=tokyo-night" alt="Typing SVG" />
-  [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranesh-2005)](https://github.com/Pranesh-2005/github-readme-stats)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayesh-chamodye&theme=tokyo-night" alt="Typing SVG" />  
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ayesh-chamodye"/>  
 </p>
 
 ---
