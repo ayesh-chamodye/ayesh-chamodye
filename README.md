@@ -69,15 +69,13 @@ Custom e-commerce platform with:
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
+![Stats](https://github-readme-stats.vercel.app/api?username=ayesh-chamodye&show_icons=true&theme=radical)
 
-  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayesh-chamodye&theme=react-dark)
+## 💻 Top Languages
 
-
-
-
-  ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=ayesh-chamodye&theme=shadow)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayesh-chamodye&layout=compact&theme=radical)
 
 
 ---
