@@ -97,13 +97,13 @@ Custom e-commerce platform with:
 
 <p align="left">
   <a href="https://github.com/ayesh-chamodye">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=github" width="50px"/>
   </a>
   <a href="https://www.linkedin.com/in/ayesh-chamodye/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50px"/>
   </a>
   <a href="https://wa.me/+94766568369">    
-    <img src="https://cdn-icons-png.flaticon.com/128/15713/15713434.png" />
+    <img src="https://cdn-icons-png.flaticon.com/128/15713/15713434.png" width="50px"/>
   </a>
 </p>
 
