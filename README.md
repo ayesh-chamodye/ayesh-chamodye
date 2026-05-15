@@ -1,4 +1,4 @@
-<p align="center"><img src="ayesh-dev.png" height="170px" alt="backdrop" /></p>
+<p align="center"><img src="ayesh-dev.png" height="170px" width="100%" alt="backdrop" /></p>
 <h1 align="center">Hi 👋, I'm Ayesh Chamodye</h1>
 <h3 align="center">Undergraduate • Software Engineer • AI Enthusiast • Anime Fan 🇱🇰</h3>
 
