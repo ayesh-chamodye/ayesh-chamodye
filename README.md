@@ -72,6 +72,9 @@ Custom e-commerce platform with:
 ## 📊 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayesh-dev&theme=tokyonight)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ayesh-dev&theme=tokyonight" width="100%" />
+</p>
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayesh-chamodye&theme=tokyo-night)
 
 ## 💻 Top Languages
