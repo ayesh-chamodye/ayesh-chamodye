@@ -74,7 +74,7 @@ Custom e-commerce platform with:
   <tr>
     <td width="50%">
       <img 
-        src="https://github-readme-stats-fast.vercel.app/api?username=ayesh-chamodye&show_icons=true&theme=tokyonight&hide_border=true" 
+        src="https://github-readme-stats-fast.vercel.app/api?username=ayesh-chamodye&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" 
         width="100%" 
       />
     </td>
