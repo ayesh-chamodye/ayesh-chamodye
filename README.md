@@ -74,10 +74,6 @@ Custom e-commerce platform with:
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayesh-chamodye&theme=tokyo-night)
 </p>
-## 💻 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayesh-chamodye&layout=compact&theme=radical)
-
 
 ---
 
