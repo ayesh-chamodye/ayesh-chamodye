@@ -72,6 +72,7 @@ Custom e-commerce platform with:
 
   <p align="left">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005&show_icons=true&theme=tokyonight" /> 
+    <div width="80px"/>
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?theme=tokyonight&username=ayesh-chamodye"/>  
   </p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayesh-chamodye&theme=tokyo-night"/>  
