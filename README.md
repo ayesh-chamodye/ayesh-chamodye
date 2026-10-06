@@ -86,11 +86,7 @@ Custom e-commerce platform with:
     </td>
   </tr>
 
-  <tr>
-    <td colspan="2">
-      
-    </td>
-  </tr>
+  
 </table>
 ---
 
