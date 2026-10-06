@@ -88,10 +88,7 @@ Custom e-commerce platform with:
 
   <tr>
     <td colspan="2">
-      <img 
-        src="https://github-readme-activity-graph.vercel.app/graph?username=ayesh-chamodye&theme=tokyo-night&hide_border=true" 
-        width="100%" 
-      />
+      
     </td>
   </tr>
 </table>
