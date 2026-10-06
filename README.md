@@ -16,7 +16,7 @@
 - 🔥 Interested in scalable backend systems, APIs, and automation
 - 📚 Researching practical applications of AI in education
 - 🎌 Anime fan — Favorite anime: **Classroom of the Elite**
-- ⚡ Currently watching: **Fire Force**
+- ⚡ Currently watching: **Black Clover**
 - 🎯 Goal: Become a top-tier software engineer & AI innovator
 
 ---
